@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu .drop-down li {
-  min-width: 180px;
+  min-width: 200px;
   position: relative;
 }
 
@@ -1211,6 +1211,36 @@ section {
 .contact .php-email-form button[type="submit"]:hover {
   background: #6aa3d5;
 }
+
+/*--------------------------------------------------------------
+# Dates
+--------------------------------------------------------------*/
+.Dates .info-box {
+  color: #444;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 20px 10px 30px 10px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.Dates .info-box i {
+  font-size: 32px;
+  color: #428bca;
+  border-radius: 50%;
+  padding: 8px;
+  border: 2px dotted #9eccf4;
+}
+
+.Dates .info-box h3 {
+  font-size: 20px;
+  color: #666;
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+
+
 
 @-webkit-keyframes animate-loading {
   0% {
