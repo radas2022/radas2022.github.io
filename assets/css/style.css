@@ -506,13 +506,13 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .section-title h2 {
   font-size: 32px;
   font-weight: 600;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   padding-top: 20px;
   color: #5c768d;
 }
@@ -853,6 +853,7 @@ section {
 --------------------------------------------------------------*/
 .format .container {
   box-shadow: 0 5px 25px 0 rgba(214, 215, 216, 0.6);
+  padding-left: 50px;
 } 
 .format ul {
   padding-left: 100px;
@@ -868,7 +869,7 @@ section {
 } 
 .format h3 {
   padding-left: 100px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 /*--------------------------------------------------------------
@@ -983,7 +984,7 @@ section {
 }
 .portfolio .section-title {
   text-align: left;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .portfolio h2 {
