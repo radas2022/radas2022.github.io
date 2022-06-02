@@ -540,7 +540,7 @@ section {
 }
 
 .about .section-title p {
-  text-align: left;
+  text-align: justify;
   font-style: italic;
   color: #666;
   font-size: 22px;
